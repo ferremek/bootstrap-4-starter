@@ -15,7 +15,7 @@ npm install
 ## Compile Sass & Run Dev Server
 
 ```bash
-npm start
+gulp
 ```
 
 Files are compiled into /src
